@@ -4,7 +4,10 @@
 This is a simple web application in Next.js with TypeScript. In this application, the User can send a Post request and get the data using the get HTTP method
 
 
-https://github.com/dacharch/Explorer/assets/46372637/271c3687-3ffe-4440-80dc-b021e53288d3
+https://github.com/dacharch/VideoDubber-Assignment/assets/46372637/f5c7c631-6402-4443-8846-cfae28537e2a
+
+
+
 
 
 
