@@ -28,5 +28,9 @@ https://github.com/dacharch/VideoDubber-Assignment/assets/46372637/f5c7c631-6402
 ```
 yarn run dev
 ```
+5. Watch all the users
+```
+ [URL]/users
+```
 
 
